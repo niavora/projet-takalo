@@ -1,6 +1,7 @@
 <footer class="py-5 bg-dark">
     <div class="container">
       <p class="m-0 text-center text-white">MATHIEU ETU2166 - NANDRAINA ETU2199 - ANTSA ETU2193</p>
+      <p>projet takalo</p>
     </div>
     <!-- /.container -->
   </footer>
