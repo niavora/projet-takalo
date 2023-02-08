@@ -4,7 +4,7 @@
 
   <div class="col-lg-4">
   
-    <h5 class="my-4"><?php echo $email; ?></h5>
+    <h5 class="my-4">Bienvenu<?php echo $email; ?></h5>
     
     <div class="list-group">
     <?php if(isset($listeCategorie))
